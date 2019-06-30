@@ -1,4 +1,4 @@
-from factory_method.concrete_pizza import Mozzarella, Calabresa
+from concrete_pizza import Mozzarella, Calabresa
 
 
 if __name__ == '__main__':
